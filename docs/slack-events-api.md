@@ -36,7 +36,7 @@ to temporarily expose your development environment to the public internet.
 However, once you go live, you will need a real, stable address.
 
 In the end, you will have a known url - for example `https://my-dev-bot.ngrok.io` -
-that you will use to finish the configuration inside Slack.
+that you will use to finish the configuration inside Slack. This will be the public internet address which you may have already created using a tool like [ngrok.io](http://ngrok.io) or [localtunnel.me](http://localtunnel.me). If you used ngrok, the address will look something like https://11db4d8e125.ngrok.io or https://gqgh.localtunnel.me if you used localtunnel.  
 
 ## 3) Configure oauth
 
